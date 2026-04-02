@@ -25,6 +25,7 @@ object UseCase1HotelBookingApp {
         // Inform user that application has started successfully
         println("Application started successfully.")
 
+
         // Application ends here
     }
 }
